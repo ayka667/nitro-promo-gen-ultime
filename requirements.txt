@@ -1,0 +1,5 @@
+pip install requests
+pip install urllib3
+pip install bcrypt
+pip install hashlib
+pip install sys
